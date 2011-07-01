@@ -463,8 +463,5 @@
     <ClCompile Include="..\..\src\core\SkPackBits.cpp">
       <Filter>源文件\core</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\views\SkTextBox.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

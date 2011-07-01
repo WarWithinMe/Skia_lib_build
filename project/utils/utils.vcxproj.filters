@@ -80,5 +80,8 @@
     <ClCompile Include="..\..\src\utils\win\SkIStream.cpp">
       <Filter>源文件\win</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\views\SkTextBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
