@@ -77,7 +77,7 @@
     <ClCompile Include="..\..\src\utils\SkCubicInterval.cpp" />
     <ClCompile Include="..\..\src\utils\SkCullPoints.cpp" />
     <ClCompile Include="..\..\src\utils\SkDumpCanvas.cpp" />
-    <ClCompile Include="..\..\src\utils\SkInterpolator.cpp">
+    <ClCompile Include="..\..\src\utils\SkInterpolator.cpp" />
     <ClCompile Include="..\..\src\utils\SkLayer.cpp" />
     <ClCompile Include="..\..\src\utils\SkMatrix44.cpp" />
     <ClCompile Include="..\..\src\utils\SkMeshUtils.cpp" />
