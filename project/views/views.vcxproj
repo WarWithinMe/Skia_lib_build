@@ -85,6 +85,7 @@
     <ClCompile Include="..\..\src\views\SkStackViewLayout.cpp" />
     <ClCompile Include="..\..\src\views\SkStaticTextView.cpp" />
     <ClCompile Include="..\..\src\views\SkTagList.cpp" />
+    <ClCompile Include="..\..\src\views\SkTextBox.cpp" />
     <ClCompile Include="..\..\src\views\SkTouchGesture.cpp" />
     <ClCompile Include="..\..\src\views\SkView.cpp" />
     <ClCompile Include="..\..\src\views\SkViewInflate.cpp" />
